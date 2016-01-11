@@ -1,0 +1,7 @@
+{
+    "version": "0.0.4",
+    "name" : "swat-httpd-cookbook",
+    "description": "swat smoke tests for httpd-cookbook",
+    "url" : "https://github.com/melezhik/swat-httpd-cookbook"
+}
+
